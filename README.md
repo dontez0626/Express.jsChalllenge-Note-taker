@@ -23,8 +23,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 Website Link
-Check out the deployed app here:
+Check out the deployed app here:https://gpnotes.herokuapp.com/
 
 
 
-Screenshots
+Screenshots:
+![Screenshot (17)](https://user-images.githubusercontent.com/82189292/132435803-341efa74-efb3-4257-be2b-5d017e23b170.png)
